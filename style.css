@@ -1,0 +1,26 @@
+h2{
+color: rgb(79, 166, 35);
+font-size: 30px;
+}
+h3{
+    color: green;
+    font-size: 25px;
+}
+p{
+    color: rgb(224, 120, 10);
+    font-size: 25px
+}
+td,th{
+    text-align: center;
+    padding: 6px;
+    padding-bottom: 6px;
+    border-bottom:  1px solid black;
+}
+td{
+    color: black;
+}
+table{
+    margin: auto;
+    margin-top: 50px;
+    border-spacing: 12px;
+}
